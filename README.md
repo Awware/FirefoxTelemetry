@@ -1,2 +1,2 @@
 # FirefoxTelemetry
-#Тестировалось на Firefox Developer Edition [latests] & Firefox Default[latests]
+# Тестировалось на Firefox Developer Edition [latests] & Firefox Default[latests]
